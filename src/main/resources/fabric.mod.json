@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "createbufferandbeams",
+  "version": "1.0",
+  "name": "Create Buffer & Beams",
+  "description": "Extenstion Of Create. ( Create Not Required )",
+  "authors": [
+    "Create Buffer & Beams Team"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams",
+    "sources": ""
+  },
+  "license": "Create Buffer & License 1.0 ( based on GPL 3.0 )",
+  "icon": "assets/createbufferandbeams/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "createbufferandbeams.CreatebufferandbeamsMod"
+    ],
+    "client": [
+      "createbufferandbeams.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.18",
+    "java": ">=17"
+  }
+}

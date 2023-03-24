@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/british_lamp",
+  "textures": {
+    "all": "createbufferandbeams:blocks/brass_block",
+    "particle": "createbufferandbeams:blocks/brass_block",
+    "0": "createbufferandbeams:blocks/lamptex"
+  },
+  "render_type": "solid"
+}

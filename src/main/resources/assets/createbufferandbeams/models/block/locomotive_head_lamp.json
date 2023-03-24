@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/locomotive_head_lamp",
+  "textures": {
+    "all": "createbufferandbeams:blocks/andesite_casing",
+    "particle": "createbufferandbeams:blocks/andesite_casing",
+    "0": "createbufferandbeams:blocks/loco_headlamp"
+  },
+  "render_type": "solid"
+}

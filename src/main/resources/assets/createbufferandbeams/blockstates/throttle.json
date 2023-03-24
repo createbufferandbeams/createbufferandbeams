@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/throttle"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/throttle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/throttle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/throttle",
+      "y": 270
+    }
+  }
+}

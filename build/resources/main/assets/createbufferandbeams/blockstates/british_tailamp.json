@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/british_tailamp"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/british_tailamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/british_tailamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/british_tailamp",
+      "y": 270
+    }
+  }
+}

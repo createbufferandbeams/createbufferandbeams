@@ -1,0 +1,12 @@
+{
+  "parent": "createbufferandbeams:custom/buffer_beamv2",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "24": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "14": "createbufferandbeams:blocks/chute_block",
+    "25": "createbufferandbeams:blocks/top",
+    "6": "createbufferandbeams:blocks/andesite_casing"
+  },
+  "render_type": "solid"
+}

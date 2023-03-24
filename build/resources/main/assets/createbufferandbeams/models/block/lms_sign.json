@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/lmse",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "1": "createbufferandbeams:blocks/lmsy"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "createbufferandbeams:items/pixil-frame-0-27"
+  },
+  "render_type": "translucent"
+}

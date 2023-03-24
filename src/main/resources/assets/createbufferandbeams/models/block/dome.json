@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/domne",
+  "textures": {
+    "all": "createbufferandbeams:blocks/brass_block",
+    "particle": "createbufferandbeams:blocks/brass_block",
+    "2": "createbufferandbeams:blocks/brass_block"
+  },
+  "render_type": "solid"
+}

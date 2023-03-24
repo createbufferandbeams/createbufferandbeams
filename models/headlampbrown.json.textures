@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "brass_block",
+        "8": "brown_terracotta_texture_je1_be1",
+        "10": "chute_block"
+      },
+      "name": "default"
+    }
+  }
+}

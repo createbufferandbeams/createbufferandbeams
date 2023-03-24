@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "chute_block"
+      },
+      "name": "default"
+    }
+  }
+}

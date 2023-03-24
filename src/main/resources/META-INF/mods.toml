@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GPL 3.0"
+
+[[mods]]
+modId="createbufferandbeams"
+version="1.0"
+displayName="Create Buffer & Beams"
+credits="Nate, Khai & Sawyer. Very many thanks to the rabbitminers team aswell with helping us!"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams"
+logoFile="logo.png"
+authors="Create Buffer & Beams Team"
+description='''
+Extenstion Of Create. Create required
+'''
+
+[[dependencies.createbufferandbeams]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

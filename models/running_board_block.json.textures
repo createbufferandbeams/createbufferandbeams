@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "andesite_casing",
+        "1": "chute_block"
+      },
+      "name": "default"
+    }
+  }
+}

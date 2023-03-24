@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "andesite_casing",
+        "1": "brass_block"
+      },
+      "name": "default"
+    }
+  }
+}

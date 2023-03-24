@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/boiler",
+  "textures": {
+    "all": "createbufferandbeams:blocks/beehive_top_texture_je1_be1",
+    "particle": "createbufferandbeams:blocks/beehive_top_texture_je1_be1",
+    "3": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

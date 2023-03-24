@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "andesite_casing",
+        "16": "smithing_table_bottom_texture_je1_be1",
+        "7": "chute_block",
+        "10": "cyan_terracotta_texture_je1_be1"
+      },
+      "name": "default"
+    }
+  }
+}

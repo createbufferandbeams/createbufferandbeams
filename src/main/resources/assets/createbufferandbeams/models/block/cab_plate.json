@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/cab_plate",
+  "textures": {
+    "all": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "particle": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "1": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

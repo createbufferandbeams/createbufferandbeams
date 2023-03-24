@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "beehive_top_texture_je1_be1",
+        "6": "brass_block",
+        "19": "smithing_table_bottom_texture_je1_be1",
+        "10": "chute_block"
+      },
+      "name": "default"
+    }
+  }
+}

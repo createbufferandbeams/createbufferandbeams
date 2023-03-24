@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "brass_casing_connected",
+        "3": "andesite_casing",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

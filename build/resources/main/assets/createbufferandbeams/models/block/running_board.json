@@ -1,0 +1,10 @@
+{
+  "parent": "createbufferandbeams:custom/running_board_block",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "0": "createbufferandbeams:blocks/andesite_casing",
+    "1": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

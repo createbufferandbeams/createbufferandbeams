@@ -1,0 +1,98 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Car Editor",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Car Editor",
+          "x": 132,
+          "y": 43
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 243,
+          "y": 59
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 273,
+          "y": 59
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Open Car",
+          "width": 66,
+          "height": 20,
+          "name": "Open Car",
+          "x": 136,
+          "y": 59
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Feature In Development!",
+          "width": 120,
+          "height": 20,
+          "name": "ASCII",
+          "x": 154,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Car Name:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Car Name:",
+          "x": 188,
+          "y": 86
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

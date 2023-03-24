@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "createbufferandbeams:items/merlamp"
+  },
+  "render_type": "translucent"
+}

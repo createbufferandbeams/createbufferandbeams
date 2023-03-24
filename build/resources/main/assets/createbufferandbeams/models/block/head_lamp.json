@@ -1,0 +1,12 @@
+{
+  "parent": "createbufferandbeams:custom/headlamp",
+  "textures": {
+    "all": "createbufferandbeams:blocks/brass_casing_connected",
+    "particle": "createbufferandbeams:blocks/brass_casing_connected",
+    "5": "createbufferandbeams:blocks/beehive_top_texture_je1_be1",
+    "6": "createbufferandbeams:blocks/brass_block",
+    "19": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "10": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/gwr_chimney",
+  "textures": {
+    "all": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "particle": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "0": "createbufferandbeams:blocks/gwr_chimney"
+  },
+  "render_type": "solid"
+}

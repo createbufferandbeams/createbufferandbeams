@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lner_color"
+      },
+      "name": "default"
+    }
+  }
+}

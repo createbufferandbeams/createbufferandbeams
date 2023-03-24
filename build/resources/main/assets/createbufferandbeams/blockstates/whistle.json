@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/whistle"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/whistle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/whistle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/whistle",
+      "y": 270
+    }
+  }
+}

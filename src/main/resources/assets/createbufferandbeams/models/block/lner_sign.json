@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/igiveulner",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "2": "createbufferandbeams:blocks/lenr"
+  },
+  "render_type": "solid"
+}

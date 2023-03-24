@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "andesite_casing",
+        "3": "top2"
+      },
+      "name": "default"
+    }
+  }
+}

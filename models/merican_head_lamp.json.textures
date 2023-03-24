@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "andesite_bricks",
+        "1": "andesite_casing",
+        "3": "brass_block",
+        "7": "chute_block"
+      },
+      "name": "default"
+    }
+  }
+}

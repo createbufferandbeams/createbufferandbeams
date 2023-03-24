@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "createbufferandbeams:whistle",
+    "createbufferandbeams:handbrake",
+    "createbufferandbeams:british_lamp",
+    "createbufferandbeams:british_tailamp",
+    "createbufferandbeams:red_buffer",
+    "createbufferandbeams:head_lamp",
+    "createbufferandbeams:boiler",
+    "createbufferandbeams:middle_board",
+    "createbufferandbeams:running_board",
+    "createbufferandbeams:gold_funnel",
+    "createbufferandbeams:merican_head_lamp",
+    "createbufferandbeams:funnel",
+    "createbufferandbeams:headlamp_brown",
+    "createbufferandbeams:gwr_sign",
+    "createbufferandbeams:lms_sign",
+    "createbufferandbeams:lner_sign",
+    "createbufferandbeams:buffer_beam",
+    "createbufferandbeams:throttle"
+  ]
+}

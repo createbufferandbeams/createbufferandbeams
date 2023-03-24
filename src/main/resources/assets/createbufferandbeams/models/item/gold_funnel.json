@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "createbufferandbeams:items/goldenfunnel"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/funnel"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/funnel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/funnel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/funnel",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "createbufferandbeams:custom/funnel2",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "3": "createbufferandbeams:blocks/chute_block",
+    "5": "createbufferandbeams:blocks/brass_block"
+  },
+  "render_type": "solid"
+}

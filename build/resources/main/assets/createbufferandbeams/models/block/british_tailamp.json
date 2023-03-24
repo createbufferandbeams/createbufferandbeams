@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/british_taillamp",
+  "textures": {
+    "all": "createbufferandbeams:blocks/andesite_casing",
+    "particle": "createbufferandbeams:blocks/andesite_casing",
+    "1": "createbufferandbeams:blocks/taillamptex"
+  },
+  "render_type": "solid"
+}

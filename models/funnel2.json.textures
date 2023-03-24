@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "chute_block",
+        "5": "brass_block"
+      },
+      "name": "default"
+    }
+  }
+}

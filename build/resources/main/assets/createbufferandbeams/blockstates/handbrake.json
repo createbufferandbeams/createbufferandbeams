@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/handbrake"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/handbrake",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/handbrake",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/handbrake",
+      "y": 270
+    }
+  }
+}

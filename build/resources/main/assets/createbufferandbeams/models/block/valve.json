@@ -1,0 +1,10 @@
+{
+  "parent": "createbufferandbeams:custom/valve",
+  "textures": {
+    "all": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "particle": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "0": "createbufferandbeams:blocks/brass_block",
+    "1": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1"
+  },
+  "render_type": "solid"
+}

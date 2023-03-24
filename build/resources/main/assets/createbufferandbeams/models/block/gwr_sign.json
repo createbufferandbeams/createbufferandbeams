@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/gwree",
+  "textures": {
+    "all": "createbufferandbeams:blocks/gwrcolor",
+    "particle": "createbufferandbeams:blocks/gwrcolor",
+    "0": "createbufferandbeams:blocks/ggwr"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/british_lamp"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/british_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/british_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/british_lamp",
+      "y": 270
+    }
+  }
+}

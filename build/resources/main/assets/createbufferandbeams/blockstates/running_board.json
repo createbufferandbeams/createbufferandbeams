@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/running_board"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/running_board",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/running_board",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/running_board",
+      "y": 270
+    }
+  }
+}

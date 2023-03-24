@@ -1,0 +1,11 @@
+{
+  "parent": "createbufferandbeams:custom/headlampbrown",
+  "textures": {
+    "all": "createbufferandbeams:blocks/brown_terracotta_texture_je1_be1",
+    "particle": "createbufferandbeams:blocks/brown_terracotta_texture_je1_be1",
+    "6": "createbufferandbeams:blocks/brass_block",
+    "8": "createbufferandbeams:blocks/brown_terracotta_texture_je1_be1",
+    "10": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

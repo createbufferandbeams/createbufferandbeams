@@ -1,0 +1,10 @@
+{
+  "parent": "createbufferandbeams:custom/whistle",
+  "textures": {
+    "all": "createbufferandbeams:blocks/brass_block",
+    "particle": "createbufferandbeams:blocks/brass_block",
+    "3": "createbufferandbeams:blocks/brass_block",
+    "4": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

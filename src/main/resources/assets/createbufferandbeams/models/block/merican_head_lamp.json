@@ -1,0 +1,12 @@
+{
+  "parent": "createbufferandbeams:custom/merican_head_lamp",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "0": "createbufferandbeams:blocks/andesite_bricks",
+    "1": "createbufferandbeams:blocks/andesite_casing",
+    "3": "createbufferandbeams:blocks/brass_block",
+    "7": "createbufferandbeams:blocks/chute_block"
+  },
+  "render_type": "solid"
+}

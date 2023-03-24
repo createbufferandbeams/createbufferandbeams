@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brass_block",
+        "1": "smithing_table_bottom_texture_je1_be1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/head_lamp"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/head_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/head_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/head_lamp",
+      "y": 270
+    }
+  }
+}

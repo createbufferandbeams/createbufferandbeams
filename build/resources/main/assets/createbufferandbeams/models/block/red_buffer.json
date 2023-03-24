@@ -1,0 +1,9 @@
+{
+  "parent": "createbufferandbeams:custom/red_buffer",
+  "textures": {
+    "all": "createbufferandbeams:blocks/brass_block",
+    "particle": "createbufferandbeams:blocks/brass_block",
+    "0": "createbufferandbeams:blocks/buffertexred"
+  },
+  "render_type": "solid"
+}

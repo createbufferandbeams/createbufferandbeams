@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "chute_block",
+        "5": "cyan_terracotta_texture_je1_be1",
+        "8": "red_concrete_texture_je1_be1",
+        "9": "andesite_casing"
+      },
+      "name": "default"
+    }
+  }
+}

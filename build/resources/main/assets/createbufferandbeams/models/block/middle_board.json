@@ -1,0 +1,11 @@
+{
+  "parent": "createbufferandbeams:custom/middle_board",
+  "textures": {
+    "all": "createbufferandbeams:blocks/chute_block",
+    "particle": "createbufferandbeams:blocks/chute_block",
+    "3": "createbufferandbeams:blocks/chute_block",
+    "8": "createbufferandbeams:blocks/top",
+    "9": "createbufferandbeams:blocks/andesite_casing"
+  },
+  "render_type": "solid"
+}

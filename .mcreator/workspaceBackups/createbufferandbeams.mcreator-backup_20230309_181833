@@ -1,0 +1,342 @@
+{
+  "mod_elements": [
+    {
+      "name": "CreateBufferAndBeams",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "create_buffer_and_beams"
+    },
+    {
+      "name": "Createbufferbeams",
+      "type": "command",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "createbufferbeams"
+    },
+    {
+      "name": "Whistle",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whistle"
+    },
+    {
+      "name": "Handbrake",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "handbrake"
+    },
+    {
+      "name": "Links",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "links",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BritishLamp",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "british_lamp"
+    },
+    {
+      "name": "GUI",
+      "type": "gui",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gui"
+    },
+    {
+      "name": "BritishTailamp",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "british_tailamp"
+    },
+    {
+      "name": "RedBuffer",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_buffer"
+    },
+    {
+      "name": "HeadLamp",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "head_lamp"
+    },
+    {
+      "name": "Boiler",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boiler"
+    },
+    {
+      "name": "MiddleBoard",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "middle_board"
+    },
+    {
+      "name": "RunningBoard",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "running_board"
+    },
+    {
+      "name": "GoldFunnel",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_funnel"
+    },
+    {
+      "name": "MericanHeadLamp",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "merican_head_lamp"
+    },
+    {
+      "name": "Funnel",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funnel"
+    },
+    {
+      "name": "HeadlampBrown",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "headlamp_brown"
+    },
+    {
+      "name": "Guitest",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guitest",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Guicommand",
+      "type": "command",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guicommand"
+    },
+    {
+      "name": "GWRSign",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gwr_sign"
+    },
+    {
+      "name": "LMSSign",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lms_sign"
+    },
+    {
+      "name": "LNERSign",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lner_sign"
+    },
+    {
+      "name": "BufferBeam",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buffer_beam"
+    },
+    {
+      "name": "Throttle",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "throttle"
+    },
+    {
+      "name": "LocomotiveHeadLamp",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locomotive_head_lamp"
+    },
+    {
+      "name": "Valve",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valve"
+    },
+    {
+      "name": "Dome",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dome"
+    },
+    {
+      "name": "GWRChimney",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gwr_chimney"
+    },
+    {
+      "name": "CabPlate",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cab_plate"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.create_buffer__beams.merican_head_lamp": "Merican Head Lamp",
+      "block.createbufferandbeams.dome": "Dome",
+      "block.createbufferandbeams.headlamp_brown": "Headlamp Brown",
+      "block.create_buffer__beams.gold_funnel": "Gold Funnel",
+      "block.createbufferandbeams.throttle": "Throttle",
+      "block.create_buffer__beams.throttle": "Throttle",
+      "block.create_buffer__beams.running_board": "Running Board",
+      "block.create_buffer__beams.headlamp_brown": "Headlamp Brown",
+      "block.createbufferandbeams.red_buffer": "Red Buffer",
+      "block.createbufferandbeams.gwr_sign": "GWR Sign",
+      "block.createbufferandbeams.lner_sign": "LNER Sign",
+      "block.create_buffer__beams.handbrake": "Handbrake",
+      "block.create_buffer__beams.british_tailamp": "British Tailamp",
+      "block.createbufferandbeams.whistle": "Whistle",
+      "block.createbufferandbeams.head_lamp": "Head Lamp",
+      "itemGroup.tabcreate_buffer_and_beams": "Create Buffer \u0026 Beams",
+      "itemGroup.createbufferandbeams.create_buffer_and_beams": "Create Buffer \u0026 Beams",
+      "block.createbufferandbeams.running_board": "Running Board",
+      "block.createbufferandbeams.gold_funnel": "Gold Funnel",
+      "block.createbufferandbeams.boiler": "Boiler",
+      "block.create_buffer__beams.red_buffer": "Red Buffer",
+      "block.createbufferandbeams.middle_board": "Middle Board",
+      "block.createbufferandbeams.funnel": "Funnel",
+      "block.createbufferandbeams.valve": "Valve",
+      "block.create_buffer__beams.lner_sign": "LNER Sign",
+      "block.createbufferandbeams.british_tailamp": "British Tailamp",
+      "block.createbufferandbeams.british_lamp": "British Lamp",
+      "block.create_buffer__beams.head_lamp": "Head Lamp",
+      "block.create_buffer__beams.lms_sign": "LMS Sign",
+      "block.createbufferandbeams.locomotive_head_lamp": "Locomotive Head Lamp",
+      "block.createbufferandbeams.cab_plate": "Cab Plate",
+      "block.create_buffer__beams.middle_board": "Middle Board",
+      "block.create_buffer__beams.buffer_beam": "Buffer Beam",
+      "block.createbufferandbeams.merican_head_lamp": "Merican Head Lamp",
+      "block.create_buffer__beams.funnel": "Funnel",
+      "block.createbufferandbeams.handbrake": "Handbrake",
+      "block.create_buffer__beams.boiler": "Boiler",
+      "block.create_buffer__beams.gwr_sign": "GWR Sign",
+      "block.createbufferandbeams.gwr_chimney": "GWR Chimney",
+      "block.createbufferandbeams.lms_sign": "LMS Sign",
+      "block.createbufferandbeams.buffer_beam": "Buffer Beam",
+      "block.create_buffer__beams.whistle": "Whistle",
+      "block.create_buffer__beams.british_lamp": "British Lamp"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "createbufferandbeams",
+    "modName": "Create Buffer \u0026 Beams",
+    "version": "1.0",
+    "description": "Extenstion Of Create. ( Create Not Required )",
+    "author": "Create Buffer \u0026 Beams Team",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams",
+    "license": "GPL 3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "img_7306",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Nate, Khai \u0026 Railraider",
+    "modElementsPackage": "createbufferandbeams",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
