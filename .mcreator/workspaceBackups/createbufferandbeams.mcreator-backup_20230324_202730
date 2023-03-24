@@ -247,6 +247,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "dome"
+    },
+    {
+      "name": "GWRChimney",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gwr_chimney"
+    },
+    {
+      "name": "CabPlate",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cab_plate"
+    },
+    {
+      "name": "WhistleRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whistle_recipe"
     }
   ],
   "variable_elements": [],
@@ -283,6 +307,7 @@
       "block.create_buffer__beams.head_lamp": "Head Lamp",
       "block.create_buffer__beams.lms_sign": "LMS Sign",
       "block.createbufferandbeams.locomotive_head_lamp": "Locomotive Head Lamp",
+      "block.createbufferandbeams.cab_plate": "Cab Plate",
       "block.create_buffer__beams.middle_board": "Middle Board",
       "block.create_buffer__beams.buffer_beam": "Buffer Beam",
       "block.createbufferandbeams.merican_head_lamp": "Merican Head Lamp",
@@ -290,6 +315,7 @@
       "block.createbufferandbeams.handbrake": "Handbrake",
       "block.create_buffer__beams.boiler": "Boiler",
       "block.create_buffer__beams.gwr_sign": "GWR Sign",
+      "block.createbufferandbeams.gwr_chimney": "GWR Chimney",
       "block.createbufferandbeams.lms_sign": "LMS Sign",
       "block.createbufferandbeams.buffer_beam": "Buffer Beam",
       "block.create_buffer__beams.whistle": "Whistle",
@@ -304,7 +330,7 @@
     "modid": "createbufferandbeams",
     "modName": "Create Buffer \u0026 Beams",
     "version": "1.0",
-    "description": "Extenstion Of Create. ( Create Not Required )",
+    "description": "Extenstion Of Create. Create required",
     "author": "Create Buffer \u0026 Beams Team",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams",
     "license": "GPL 3.0",
@@ -316,7 +342,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Nate, Khai \u0026 Railraider",
+    "credits": "Nate, Khai \u0026 Sawyer. Very many thanks to the rabbitminers team aswell with helping us!",
     "modElementsPackage": "createbufferandbeams",
     "lockBaseModFiles": false
   },
