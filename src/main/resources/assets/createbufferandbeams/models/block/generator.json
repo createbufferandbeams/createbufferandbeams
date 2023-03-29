@@ -1,0 +1,13 @@
+{
+  "parent": "createbufferandbeams:custom/powergenerator",
+  "textures": {
+    "all": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "particle": "createbufferandbeams:blocks/smithing_table_bottom_texture_je1_be1",
+    "1": "createbufferandbeams:blocks/powernumpad",
+    "2": "createbufferandbeams:blocks/powerport",
+    "3": "createbufferandbeams:blocks/powerbody",
+    "4": "createbufferandbeams:blocks/powermeter",
+    "5": "createbufferandbeams:blocks/powersupport"
+  },
+  "render_type": "solid"
+}

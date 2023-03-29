@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "powernumpad",
+        "2": "powerport",
+        "3": "powerbody",
+        "4": "powermeter",
+        "5": "powersupport"
+      },
+      "name": "default"
+    }
+  }
+}

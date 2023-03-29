@@ -63,6 +63,8 @@ public class CreatebufferandbeamsModItems {
 			CreatebufferandbeamsModTabs.TAB_CREATE_BUFFER_AND_BEAMS);
 	public static final RegistryObject<Item> CAB_PLATE = block(CreatebufferandbeamsModBlocks.CAB_PLATE,
 			CreatebufferandbeamsModTabs.TAB_CREATE_BUFFER_AND_BEAMS);
+	public static final RegistryObject<Item> GENERATOR = block(CreatebufferandbeamsModBlocks.GENERATOR,
+			CreatebufferandbeamsModTabs.TAB_CREATE_BUFFER_AND_BEAMS);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

@@ -263,6 +263,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cab_plate"
+    },
+    {
+      "name": "WhistleRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whistle_recipe"
     }
   ],
   "variable_elements": [],
@@ -322,7 +330,7 @@
     "modid": "createbufferandbeams",
     "modName": "Create Buffer \u0026 Beams",
     "version": "1.0",
-    "description": "Extenstion Of Create. ( Create Not Required )",
+    "description": "Extenstion Of Create. Create required",
     "author": "Create Buffer \u0026 Beams Team",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams",
     "license": "GPL 3.0",
@@ -334,7 +342,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Nate, Khai \u0026 Railraider",
+    "credits": "Nate, Khai \u0026 Sawyer. Very many thanks to the rabbitminers team aswell with helping us!",
     "modElementsPackage": "createbufferandbeams",
     "lockBaseModFiles": false
   },
