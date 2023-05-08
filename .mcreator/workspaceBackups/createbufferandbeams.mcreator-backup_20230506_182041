@@ -271,6 +271,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "whistle_recipe"
+    },
+    {
+      "name": "Generator",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "generator"
     }
   ],
   "variable_elements": [],
@@ -301,6 +309,7 @@
       "block.createbufferandbeams.middle_board": "Middle Board",
       "block.createbufferandbeams.funnel": "Funnel",
       "block.createbufferandbeams.valve": "Valve",
+      "block.createbufferandbeams.generator": "Generator",
       "block.create_buffer__beams.lner_sign": "LNER Sign",
       "block.createbufferandbeams.british_tailamp": "British Tailamp",
       "block.createbufferandbeams.british_lamp": "British Lamp",

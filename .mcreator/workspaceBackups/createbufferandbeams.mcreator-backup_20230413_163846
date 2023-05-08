@@ -263,6 +263,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cab_plate"
+    },
+    {
+      "name": "WhistleRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whistle_recipe"
+    },
+    {
+      "name": "Generator",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "generator"
     }
   ],
   "variable_elements": [],
@@ -293,6 +309,7 @@
       "block.createbufferandbeams.middle_board": "Middle Board",
       "block.createbufferandbeams.funnel": "Funnel",
       "block.createbufferandbeams.valve": "Valve",
+      "block.createbufferandbeams.generator": "Generator",
       "block.create_buffer__beams.lner_sign": "LNER Sign",
       "block.createbufferandbeams.british_tailamp": "British Tailamp",
       "block.createbufferandbeams.british_lamp": "British Lamp",
@@ -322,7 +339,7 @@
     "modid": "createbufferandbeams",
     "modName": "Create Buffer \u0026 Beams",
     "version": "1.0",
-    "description": "Extenstion Of Create. ( Create Not Required )",
+    "description": "Extenstion Of Create. Create required",
     "author": "Create Buffer \u0026 Beams Team",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams",
     "license": "GPL 3.0",
@@ -334,7 +351,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Nate, Khai \u0026 Railraider",
+    "credits": "Nate, Khai \u0026 Sawyer. Very many thanks to the rabbitminers team aswell with helping us!",
     "modElementsPackage": "createbufferandbeams",
     "lockBaseModFiles": false
   },

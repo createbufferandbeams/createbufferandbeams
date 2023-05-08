@@ -271,6 +271,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "whistle_recipe"
+    },
+    {
+      "name": "Generator",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "generator"
     }
   ],
   "variable_elements": [],
@@ -301,6 +309,7 @@
       "block.createbufferandbeams.middle_board": "Middle Board",
       "block.createbufferandbeams.funnel": "Funnel",
       "block.createbufferandbeams.valve": "Valve",
+      "block.createbufferandbeams.generator": "Generator",
       "block.create_buffer__beams.lner_sign": "LNER Sign",
       "block.createbufferandbeams.british_tailamp": "British Tailamp",
       "block.createbufferandbeams.british_lamp": "British Lamp",
@@ -337,14 +346,12 @@
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "img_7306",
-    "requiredMods": [
-      "create"
-    ],
+    "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Nate, Khai \u0026 Railraider. Very many thanks to the rabbitminers team aswell with helping us!",
+    "credits": "Nate, Khai \u0026 Sawyer. Very many thanks to the rabbitminers team aswell with helping us!",
     "modElementsPackage": "createbufferandbeams",
     "lockBaseModFiles": false
   },
