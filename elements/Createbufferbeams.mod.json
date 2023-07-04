@@ -2,8 +2,8 @@
   "_fv": 34,
   "_type": "command",
   "definition": {
-    "commandName": "cbblinks",
+    "commandName": "createbufferandbeams",
     "permissionLevel": "No requirement",
-    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"call_procedure\"><field name=\"procedure\">Links</field></block></next></block></xml>"
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"call_procedure\"><field name=\"procedure\">Credits</field></block></next></block><block type=\"message\" x=\"39\" y=\"139\"><field name=\"name\">download</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Links</field></block></statement></block><block type=\"message\" x=\"38\" y=\"237\"><field name=\"name\">credits</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Credits</field></block></statement></block></xml>"
   }
 }

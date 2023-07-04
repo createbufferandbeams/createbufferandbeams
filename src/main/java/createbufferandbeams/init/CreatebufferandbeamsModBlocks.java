@@ -10,6 +10,7 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.level.block.Block;
 
+import createbufferandbeams.block.WiringBlock;
 import createbufferandbeams.block.WhistleBlock;
 import createbufferandbeams.block.ValveBlock;
 import createbufferandbeams.block.ThrottleBlock;
@@ -63,4 +64,5 @@ public class CreatebufferandbeamsModBlocks {
 	public static final RegistryObject<Block> GWR_CHIMNEY = REGISTRY.register("gwr_chimney", () -> new GWRChimneyBlock());
 	public static final RegistryObject<Block> CAB_PLATE = REGISTRY.register("cab_plate", () -> new CabPlateBlock());
 	public static final RegistryObject<Block> GENERATOR = REGISTRY.register("generator", () -> new GeneratorBlock());
+	public static final RegistryObject<Block> WIRING = REGISTRY.register("wiring", () -> new WiringBlock());
 }

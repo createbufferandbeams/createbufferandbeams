@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "tinted_glass_texture_je2_be1",
+        "2": "block_of_copper_texture_je1_be1",
+        "3": "ac2",
+        "missing": "tinted_glass_texture_je2_be1"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "createbufferandbeams:custom/wiring",
+  "textures": {
+    "all": "createbufferandbeams:blocks/andesite_casing",
+    "particle": "createbufferandbeams:blocks/andesite_casing",
+    "1": "createbufferandbeams:blocks/tinted_glass_texture_je2_be1",
+    "2": "createbufferandbeams:blocks/block_of_copper_texture_je1_be1",
+    "3": "createbufferandbeams:blocks/ac2",
+    "missing": "createbufferandbeams:blocks/tinted_glass_texture_je2_be1"
+  },
+  "render_type": "solid"
+}

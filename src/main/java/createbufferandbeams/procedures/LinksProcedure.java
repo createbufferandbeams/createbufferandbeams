@@ -10,7 +10,7 @@ public class LinksProcedure {
 			return;
 		if (entity instanceof Player _player && !_player.level.isClientSide())
 			_player.displayClientMessage(Component.literal(
-					"Thanks for choosing CB&B Curseforge: https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams Github: https://github.com/createbufferandbeams"),
+					"Thanks for choosing CB&B Modrinth: https://modrinth.com/mod/cbandb/ Github: https://github.com/createbufferandbeams Curseforge (OLD VER): https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams"),
 					(false));
 	}
 }

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createbufferandbeams:block/wiring"
+    },
+    "facing=east": {
+      "model": "createbufferandbeams:block/wiring",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "createbufferandbeams:block/wiring",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createbufferandbeams:block/wiring",
+      "y": 270
+    }
+  }
+}

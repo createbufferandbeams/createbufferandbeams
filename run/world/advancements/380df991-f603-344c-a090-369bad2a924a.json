@@ -1,4 +1,46 @@
 {
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-07-04 15:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-03-05 15:49:01 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-07-04 15:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-03-05 15:49:01 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-07-04 15:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-07-04 15:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-03-05 15:49:01 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2023-03-05 15:49:01 +1100"
@@ -11,25 +53,31 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "in_water": "2023-03-05 15:49:01 +1100"
+      "has_redstone": "2023-07-04 15:48:04 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "in_water": "2023-03-05 15:49:01 +1100"
+      "has_redstone": "2023-07-04 15:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-07-04 15:48:04 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-07-04 15:48:04 +1000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2023-03-05 15:49:01 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2023-03-05 15:49:01 +1100"
     },

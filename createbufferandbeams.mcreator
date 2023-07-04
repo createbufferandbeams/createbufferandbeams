@@ -279,6 +279,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "generator"
+    },
+    {
+      "name": "Credits",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "credits",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wiring",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wiring"
     }
   ],
   "variable_elements": [],
@@ -290,6 +314,7 @@
       "block.createbufferandbeams.headlamp_brown": "Headlamp Brown",
       "block.create_buffer__beams.gold_funnel": "Gold Funnel",
       "block.createbufferandbeams.throttle": "Throttle",
+      "block.createbufferandbeams.wiring": "Wiring",
       "block.create_buffer__beams.throttle": "Throttle",
       "block.create_buffer__beams.running_board": "Running Board",
       "block.create_buffer__beams.headlamp_brown": "Headlamp Brown",

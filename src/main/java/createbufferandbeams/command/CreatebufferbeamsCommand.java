@@ -11,13 +11,13 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.Direction;
 import net.minecraft.commands.Commands;
 
-import createbufferandbeams.procedures.LinksProcedure;
+import createbufferandbeams.procedures.CreditsProcedure;
 
 @Mod.EventBusSubscriber
 public class CreatebufferbeamsCommand {
 	@SubscribeEvent
 	public static void registerCommand(RegisterCommandsEvent event) {
-		event.getDispatcher().register(Commands.literal("cbblinks")
+		event.getDispatcher().register(Commands.literal("createbufferandbeams")
 
 				.executes(arguments -> {
 					ServerLevel world = arguments.getSource().getLevel();
@@ -29,7 +29,7 @@ public class CreatebufferbeamsCommand {
 						entity = FakePlayerFactory.getMinecraft(world);
 					Direction direction = entity.getDirection();
 
-					LinksProcedure.execute(entity);
+					CreditsProcedure.execute(entity);
 					return 0;
 				}));
 	}

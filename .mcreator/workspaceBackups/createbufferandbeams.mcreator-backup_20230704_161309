@@ -279,6 +279,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "generator"
+    },
+    {
+      "name": "Credits",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "credits",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
